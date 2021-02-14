@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "eslintConfig": {
+    "extends": "@trevorblades/eslint-config/react"
+  },
+  "devDependencies": {
+    "@trevorblades/eslint-config": "^7.0.1",
+    "eslint": "^5.13.0",
+    "lerna": "^3.10.7"
+  }
+}
